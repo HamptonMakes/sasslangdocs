@@ -1,0 +1,9 @@
+---
+- :output_file: main.js
+  :input_directories:
+    - main
+  :input_files:
+  - host_map.js
+  - http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js
+  - http://downloads.moovweb.com/uranium/1.0.148/uranium-pretty.js
+  - cachify.js

@@ -1,0 +1,7 @@
+HTTP/1.0 535 Internal Server Error
+Connection: close
+Content-Type: text/plain;
+Content-Length: 159
+
+Failed to create body.ts transformer: 
+scripts/pages/docs.ts:7: function Text.insert_top(Text) does not exist in namespace tritium; (called from Text.inner()).
