@@ -1,7 +1,0 @@
-HTTP/1.0 535 Internal Server Error
-Connection: close
-Content-Type: text/plain;
-Content-Length: 165
-
-Failed to create body.ts transformer: 
-scripts/pages/docs.ts:6: function XMLNode.append_top(Text) does not exist in namespace tritium; (called from XMLNode.$(Text)).
